@@ -11,6 +11,6 @@ package proyectocomunalumnos2324;
 public class MatiasPennino {
     
     public static void MatiasPennino(){
-        System.out.println("Metodo de Matias Pennino");
+        System.out.println("Metodo de Matias Agustin Pennino");
     }
 }
