@@ -11,7 +11,7 @@ package proyectocomunalumnos2324;
 public class ClaseIonMarianGeorgian {
     
     public static void metodoMarian(){
-        System.out.println("Método de Marian Georgian Ion. Actividad 4.3.3");
+        System.out.println("Método de Marian Georgian Ion. Actividad 4.3.3.");
     }
     
 }
