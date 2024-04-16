@@ -10,6 +10,6 @@ package proyectocomunalumnos2324;
  */
 public class MiriamRodriguez {
     public void MiriamRodriguez() {
-        System.out.println("Método de <tu nombre>");
+        System.out.println("Método de Miriam");
     }
 }
