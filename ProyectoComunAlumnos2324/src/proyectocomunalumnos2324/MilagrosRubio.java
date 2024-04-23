@@ -12,5 +12,6 @@ public class MilagrosRubio {
 
     public void MilagrosRubioFiestas () {
         System.out.println("Metodo de Milagros Rubio");
+        System.out.println("Hola");
     }
 }
