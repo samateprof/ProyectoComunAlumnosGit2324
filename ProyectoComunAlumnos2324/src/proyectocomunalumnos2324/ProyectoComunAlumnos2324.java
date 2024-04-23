@@ -15,6 +15,8 @@ public class ProyectoComunAlumnos2324 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        antonio_rabaneda_lopez a=new antonio_rabaneda_lopez();
+        a.antonioRabanedaLopez();
     }
     
 }
