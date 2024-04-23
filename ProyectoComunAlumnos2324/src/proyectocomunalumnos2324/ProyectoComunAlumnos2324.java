@@ -15,7 +15,8 @@ public class ProyectoComunAlumnos2324 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Milagros Rubio ");
+        MilagrosRubio mila = new MilagrosRubio ();
+        mila.MilagrosRubioFiestas();
     }
     
 }
