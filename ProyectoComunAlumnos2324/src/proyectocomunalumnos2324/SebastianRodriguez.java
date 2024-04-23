@@ -11,5 +11,6 @@ package proyectocomunalumnos2324;
 public class SebastianRodriguez {
     public static void metodoMarian(){
         System.out.println("Sebastián Rodríguez");
+        System.out.println("Ha estado aqui...");
     }
 }
