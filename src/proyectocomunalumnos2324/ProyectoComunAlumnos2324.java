@@ -14,7 +14,8 @@ public class ProyectoComunAlumnos2324 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Clase_RubenDavidRat r = new Clase_RubenDavidRat();
+        r.rubenRat();
     }
     
 }
