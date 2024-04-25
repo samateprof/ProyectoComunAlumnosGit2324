@@ -9,7 +9,7 @@ package proyectocomunalumnos2324;
  * @author maniana
  */
 public class MiriamRodriguez {
-    public void MiriamRodriguez() {
+    public static void MiriamRodriguez() {
         System.out.println("Método de Miriam");
     }
 }
