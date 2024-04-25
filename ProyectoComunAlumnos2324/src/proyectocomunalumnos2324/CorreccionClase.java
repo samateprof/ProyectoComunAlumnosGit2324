@@ -9,7 +9,7 @@ package proyectocomunalumnos2324;
  * @author Sonia
  */
 public class CorreccionClase {
-    public static void metodoClase(){
+    public void metodoClase(){
         System.out.println("Metodo de correccion de clase");
     }
 }

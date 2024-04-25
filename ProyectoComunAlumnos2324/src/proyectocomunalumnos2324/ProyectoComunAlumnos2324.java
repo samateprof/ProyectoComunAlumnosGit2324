@@ -15,6 +15,8 @@ public class ProyectoComunAlumnos2324 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        CorreccionClase c = new CorreccionClase();
+        c.metodoClase();
     }
     
 }
